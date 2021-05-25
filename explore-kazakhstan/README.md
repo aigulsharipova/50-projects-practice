@@ -9,3 +9,8 @@ Expending cards with photo from Kazakhstan
 - HTML
 - CSS
 - JavaScript
+
+## Screenshots 📸
+
+![Example](./pic1.png)
+![Example](./pic2.png)
