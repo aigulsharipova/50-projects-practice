@@ -12,5 +12,5 @@ Expending cards with photo from Kazakhstan
 
 ## Screenshots 📸
 
-![Example](./pic1.png)
-![Example](./pic2.png)
+![Example](./style/pic1.png)
+![Example](./style/pic2.png)

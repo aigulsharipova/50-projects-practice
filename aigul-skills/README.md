@@ -12,5 +12,5 @@ The simple page about my dev skils
 
 ## Screenshots 📸
 
-![Example](./pic1.png)
-![Example](./pic2.png)
+![Example](./style/pic1.png)
+![Example](./style/pic2.png)
